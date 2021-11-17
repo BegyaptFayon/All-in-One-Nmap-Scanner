@@ -30,7 +30,7 @@ Its easy to install just follow the step one by one :-
 ```bash
 1.) sudo apt-get update
 2.) sudo apt-get upgrade
-3.) git clone https://github.com/ASHWIN990/NMAP-Scannner.git
+3.) git clone https://github.com/BegyaptFayon/All-in-One-Nmap-Scanner
 4.) cd NMAP-Scanner
 5.) chmod +x install.sh
 6.) chmod +x nmap-scanner.sh
