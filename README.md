@@ -3,17 +3,19 @@
 
 # NMAP-Scannner
 
-![](https://i.ibb.co/NTyndrF/p-nmap.png)
+![](https://nmap.org/images/nmap-logo-256x256.png)
 
 NMAP Scanner for beginners those who have not enough idea about what NMAP can do. Do not use this for wrong purpose use for test and educational purpose and never do any NMAP Scan on any network without the permission of the ownwer.
 
+Check NMAP website for more help : (https://nmap.org/)
+
 ## Getting Started
 
-This NMAP Scanner is made for making NMAP Scan eaisly currently i have added 20 types scan for differt situation that i find helpful for use and hope you will also like that.
+This NMAP Scanner is for automating your nmap scans easily and quickly.This tool is quite usefull in CTF events or pentesting.
 
 ### Prerequisites
 
-Make sure your distro have all the pakages installed .
+Make sure To Have all the pakages installed .
 
 ```
 NMAP
@@ -39,5 +41,3 @@ Its easy to install just follow the step one by one :-
 ## Author
 
 - **Shubhanshu Bhagat** - (https://github.com/BegyaptFayon)
-
-Check NMAP website for more help : (https://nmap.org/)
